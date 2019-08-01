@@ -1,1 +1,1 @@
-# Responsive-CSS
+# Responsive CSS Rules
