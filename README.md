@@ -1,5 +1,6 @@
 # Responsive CSS Rules
 
+[code]
 /* 
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
@@ -9,7 +10,7 @@
 
 }
 
-
+[/code]
 
 /* 
   ##Device = Tablets, Ipads (landscape)
