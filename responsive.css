@@ -13,7 +13,11 @@
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
 */
-@media (min-width: 768px) and (max-width: 1024px) {
+/*	
+@media (min-width: 768px) and (max-width: 800px)  {
+*/	
+
+@media only screen and (max-width:800px) and (orientation: portrait){
 
 
 }
